@@ -8,7 +8,8 @@
   "project_page": "https://github.com/mfinelli/puppet-bash_backup_suite",
   "issues_url": "https://github.com/mfinelli/puppet-bash_backup_suite/issues",
   "dependencies": [
-    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-vcsrepo","version_requirement":">= 1.3.0"}
   ],
   "data_provider": null
 }
